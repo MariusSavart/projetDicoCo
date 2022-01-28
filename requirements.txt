@@ -8,4 +8,4 @@ numpy==1.16.6
 IPython==5.5.0
 ipywidgets==7.6.5
 librosa==0.8.1
-
+soundfile==0.10.3
